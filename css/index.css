@@ -120,6 +120,7 @@ header {
     font-size: 18px;
     margin: 24px 0 0;
     border: none;
+    cursor: pointer;
 }
 
 .satart-page__button:hover {
@@ -328,6 +329,7 @@ h6 {
     }
     .burger__foll-aut-menu {
         display: none;
+        position: fixed;
     }
     .burger__foll-aut {
         width: 100%;
